@@ -43,7 +43,7 @@ import { camelToKebab } from 'wisder-aux'
 
 # 助手函数列表
 `
-const docsPath = 'https://github.com/tanytree/wisder-aux/blob/master/docs'
+const docsPath = 'https://github.com/tanytree/wisder-aux/blob/main/docs'
 
 function renderFnList(item, template, filepath) {
   return `${template}
